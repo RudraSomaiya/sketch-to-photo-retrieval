@@ -1,0 +1,11 @@
+.venv/
+.ipynb_checkpoints/
+
+# Dataset, cached embeddings and generated figures stay local
+rendered_256x256/
+256x256/
+embeddings/
+figs/
+
+*.pdf
+*.zip

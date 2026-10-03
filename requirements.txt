@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+scikit-learn
+tqdm
+torch>=2.5
+torchvision
+open_clip_torch>=3.3
+qdrant-client>=1.19
+jupyterlab
